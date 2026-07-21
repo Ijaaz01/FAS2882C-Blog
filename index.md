@@ -19,7 +19,7 @@ It is here that we see the first instance of the melding of the online and offli
 
 The advent of the internet and social media has widely changed how we consume media. For example in basketball, social media has resulted in many fans of basketball choosing to view highlights of games rather than watch full games, a practice that I myself am guilty of. However, with respect to the world cup, the advent of social media has not changed how people view the world cup. Even now on social media we see millions of people all around the world gathering at communal spaces to watch matches. Fans in Singapore are often seen waking up at 5am in the morning just to watch these games. So the question is then what change has social media brought into how people consume the world cup. This leads me directly into why I have been more invested in this world cup as compared to previous world cups.
 
-## The world cup as a medium for social change
+## The world cup as a medium for education
 While I was scrolling through my instagram feed, I came across a post about a super fan from the Democratic Republic of Congo (DR Congo) Michel Kuka Mboladinga also known as [Lumumba Vea](https://www.bbc.com/sport/football/articles/cy04vnlzkn2o). He was known for standing completely still in a pose, mimicking the statue of Patrice Lumumba (the first prime minister of DR Congo)
 
 <figure style="text-align: center;">
