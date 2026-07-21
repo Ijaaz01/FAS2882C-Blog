@@ -10,7 +10,10 @@ The world cup is the biggest sporting event in the world and an argument could b
 ## Online and offline fandom
 Before we get into that however I want to take some time to go over what fandom can look like for those watching the world cup. Before social media had allowed for the unregulated sharing of information, the world cup was primarily consumed via tv broadcasts and communal screenings of the matches. In Singapore these communal screenings are carried out by the government at community centers all around the island. In many other countries these screenings are carried out my members of the public who share a passion for football
 
-![Image of people watching a world cup game outside](./images/crowdWorldCup.png)
+<figure style="text-align: center;">
+  <img src="./images/crowdWorldCup.png" alt="Image of people watching a world cup game outside" style="width: 400px; height: auto; max-width: 100%;">
+  <figcaption>Fans gathering to watch a World Cup match</figcaption>
+</figure>
 
 It is here that we see the first instance of the melding of the online and offline. People all around the world are able to watch matches live, surrounded by people. The act of watching the world cup game goes from a form of entertainment to a communal event fostering bonds among individuals.
 
@@ -19,7 +22,10 @@ The advent of the internet and social media has widely changed how we consume me
 ## The world cup as a medium for social change
 While I was scrolling through my instagram feed, I came across a post about a super fan from the Democratic Republic of Congo (DR Congo) Michel Kuka Mboladinga also known as [Lumumba Vea](https://www.bbc.com/sport/football/articles/cy04vnlzkn2o). He was known for standing completely still in a pose, mimicking the statue of Patrice Lumumba (the first prime minister of DR Congo)
 
-![Image of Lumumba Vea](./images/lumumbaVea.jpg)
+<figure style="text-align: center;">
+  <img src="./images/lumumbaVea.jpg" alt="Image of Lumumba Vea" style="width: 400px; height: auto; max-width: 100%;">
+  <figcaption>Michel Kuka Mboladinga, known as Lumumba Vea</figcaption>
+</figure>
 
 The post most interestingly was almost entirely focused on the man Lumumba Vea was emulating, Patrice Lumumba. It went over his impact and importance to the independence of Congo from Belgium and his unfortunate assassination at only 36. This singular post piqued my interest in the world cup well before the finals, which was the only game of the world cup that I had any care for in the past. I learned of the camaraderie shared between fans of Mexico and South Korea, due to their [historic ties](https://www.npr.org/2026/06/17/nx-s1-5835229/mexico-south-korea-world-cup-fans-coreano-hermano) both in and out of football. 
 
