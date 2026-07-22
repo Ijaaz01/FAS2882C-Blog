@@ -118,6 +118,10 @@ hr {
   color: #6ea8fe;
 }
 
+#forkme_banner {
+ display: none;
+}
+
 .tooltip::after {
   content: attr(data-tooltip);
   position: absolute;
