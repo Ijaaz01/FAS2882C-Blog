@@ -43,12 +43,28 @@ p {
 }
 
 /* Header banner stays dark (already is by default) */
+#header_wrap {
+  position: relative;
+  background: url('{{ "/images/fifa2026" | https://github.com/Ijaaz01/FAS2882C-Blog}}') no-repeat center center;
+  background-size: cover;
+}
+
+/* Optional dark overlay so white text stays readable over a busy photo */
+#header_wrap::before {
+  content: "";
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: rgba(0, 0, 0, 0.45);
+}
+
 #header_wrap .inner {
-  padding: 60px 10px 40px 10px;
+  position: relative;
+  z-index: 1;
 }
 
 #project_title {
   font-size: 46px;
+  text-align: center;
 }
 
 /* Links need higher contrast on dark background */
@@ -118,6 +134,7 @@ hr {
   color: #6ea8fe;
 }
 
+/*Gets rid of the view on github banner*/
 #forkme_banner {
  display: none;
 }
