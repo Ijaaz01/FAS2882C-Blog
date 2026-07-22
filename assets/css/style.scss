@@ -143,6 +143,7 @@ hr {
   content: attr(data-tooltip);
   position: absolute;
   bottom: 125%;
+  max-width: 150%;
   left: 50%;
   transform: translateX(-50%);
   background: #2a2a2a;
@@ -152,7 +153,7 @@ hr {
   font-size: 0.85em;
   line-height: 1.4;
   width: 260px;
-  text-align: left;
+  text-align: center;
 
   /* hidden by default */
   opacity: 0;
